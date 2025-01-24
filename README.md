@@ -1,2 +1,16 @@
-# flutter-app
-Space App is a Flutter-based mobile application designed to explore the vast wonders of the universe. This app features a sleek, modern UI with a space theme, offering information, visuals, and interactive content about celestial bodies, black holes, and more.
+# black_hole
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
